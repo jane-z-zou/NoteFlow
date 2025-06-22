@@ -96,7 +96,7 @@ Use the following `manifest.json` setup:
 ```json
 {
   "base_url": "http://localhost:8080",
-  "entry_point": "extension.tsx"
+  "entry_point": "agent.tsx"
 }
 ```
 
@@ -166,7 +166,7 @@ System ports:
 
 ---
 
-## 🔗 Repo
+## 🔗 Demo and Repo
 
 * 🔗 **GitHub Repo:** [https://github.com/jane-z-zou/noteflow](https://github.com/jane-z-zou/noteflow)
 * 🎬 Demo Video: [NoteFlow Video Demo](https://www.youtube.com/watch?v=fg9b5twAIu8)
